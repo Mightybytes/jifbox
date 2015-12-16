@@ -1,1 +1,1 @@
-web: mighty-gif --port=$PORT web:app
+web: waitress-serve --port=$PORT web:app

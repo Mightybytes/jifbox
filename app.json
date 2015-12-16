@@ -38,6 +38,6 @@
     }
   },
   "addons": [
-    "mongohq:ssd_1g_elastic"
+    "mongohq:sandbox"
   ]
 }
